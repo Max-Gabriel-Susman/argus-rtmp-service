@@ -1,6 +1,6 @@
 # Argus RTMP Service
 
-The Argus RTMP Service Streams Content from Argus Ingress Clients to an Argus Conversion Service
+The Argus RTMP Service handles incoming RTMP streams from Argus Ingress Clients
 
 ## Docker 
 
