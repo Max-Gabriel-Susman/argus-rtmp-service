@@ -27,8 +27,5 @@ ffmpeg -re -i input.mp4 -c:v libx264 -preset fast -b:v 1000k -maxrate 1000k -buf
 
 ## TODOs
 
-* we need to push docker images for this and hls service to docker hub 
+* we need to finish implementing hsls service
 
-* linter
-
-* ci
